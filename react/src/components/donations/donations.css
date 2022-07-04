@@ -1,0 +1,33 @@
+.donate-card {
+  padding: 24px;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.donate-buttons button {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 48px;
+  border-radius: 10px;
+  border-color: #ffe18d;
+  background-color: #ffe18d;
+}
+
+.donate-buttons button:focus {
+  background-color: #f2b300;
+  border-color: #f2b300;
+}
+
+.donation-confirm-card {
+  margin-top: 50%;
+}
+
+.confirm-header {
+  background-color: #f4a770;
+}
+
+.other-field {
+  margin: 24px auto;
+  width: 50%;
+  font-size: large;
+}

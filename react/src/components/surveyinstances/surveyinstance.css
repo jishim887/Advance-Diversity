@@ -1,0 +1,22 @@
+.questionCard {
+  padding: 20px;
+}
+
+.form-group,
+.form-check {
+  margin-top: 12px;
+}
+
+.form-title-card {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.has-error {
+  color: #ee5776;
+}
+
+.additionalText {
+  font-weight: 300;
+  margin-left: 3px;
+}

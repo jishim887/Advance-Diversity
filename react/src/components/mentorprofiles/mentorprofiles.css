@@ -1,0 +1,21 @@
+.profile-card {
+  padding: 2%;
+}
+
+.form-group {
+  margin-bottom: 2%;
+}
+
+.field-error {
+  color: #ee5776;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.file-box {
+  width: 400px;
+}

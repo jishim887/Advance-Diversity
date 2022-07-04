@@ -1,0 +1,25 @@
+.mentor-card{
+  padding: 3%;
+}
+.field-error{
+  color: #ee5776;
+}
+.profile-image{
+  width:100px;
+  height:100px;
+  object-fit:cover;
+}
+.file-box{
+  width: 400px;
+}
+.button-group{
+  margin-top: 1%;
+  display: flex;
+  justify-content:space-between;
+}
+.button-group button{
+  width: 150px;
+}
+.form-control{
+  margin-bottom: 2%;
+}
