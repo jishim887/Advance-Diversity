@@ -1,0 +1,57 @@
+.mentor-card {
+   width: 30%;
+   padding-right: 1%;
+   padding-left: 1%;
+}
+
+.mentor-image {
+   object-fit: cover;
+   width: 70px;
+   height: 70px;
+}
+
+.mentor-card-header {
+   height: 30px;
+   padding: 0px;
+}
+
+.mentor-card-footer {
+   height: 30px;
+   padding: 0px;
+}
+
+.options-list {
+   margin: 1%;
+}
+
+.option-pill {
+   color: white;
+   font-weight: 700;
+   padding: 4px;
+   padding-right: 10px;
+   padding-left: 10px;
+   margin-left: 2px;
+   margin-right: 2px;
+   border-radius: 20px;
+   display: inline-block;
+}
+
+.card-color-0 {
+   background: rgb(250, 92, 124);
+   background: linear-gradient(90deg, rgba(250, 92, 124, 1) 0%, rgba(255, 188, 0, 1) 100%);
+}
+
+.card-color-2 {
+   background: rgb(250, 92, 124);
+   background: linear-gradient(90deg, rgba(250, 92, 124, 1) 0%, rgba(114, 124, 245, 1) 100%);
+}
+
+.card-color-1 {
+   background: rgb(57, 175, 209);
+   background: linear-gradient(90deg, rgba(57, 175, 209, 1) 0%, rgba(10, 207, 151, 1) 100%);
+}
+
+.card-color-3 {
+   background: rgb(57, 175, 209);
+   background: linear-gradient(90deg, rgba(57, 175, 209, 1) 0%, rgba(114, 124, 245, 1) 100%);
+}

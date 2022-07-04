@@ -1,0 +1,51 @@
+.mentors-card {
+   margin-top: 100px;
+   margin-bottom: 100px;
+   padding: 24px;
+}
+
+.mentors-header {
+   background-color: white;
+}
+
+.submit-button {
+   border-color: transparent;
+   background: rgb(114, 124, 245);
+   background: linear-gradient(0deg, rgba(114, 124, 245, 1) 0%, rgba(169, 126, 255, 1) 100%);
+}
+
+.submit-button:focus {
+   border-color: transparent;
+   background: rgb(73, 87, 255);
+   background: linear-gradient(0deg, rgba(73, 87, 255, 1) 0%, rgba(141, 86, 255, 1) 100%);
+}
+
+.mentor-button button {
+   width: 100px;
+   margin-right: 2px;
+   margin-left: 2px;
+   border-radius: 20px;
+   border-color: transparent;
+   background: rgb(114, 124, 245);
+   background: linear-gradient(0deg, rgba(114, 124, 245, 1) 0%, rgba(169, 126, 255, 1) 100%);
+}
+
+.mentor-button button:focus {
+   border-color: transparent;
+   background: rgb(73, 87, 255);
+   background: linear-gradient(0deg, rgba(73, 87, 255, 1) 0%, rgba(141, 86, 255, 1) 100%);
+}
+
+.mentor-select {
+   width: 150px;
+   border-radius: 20px;
+}
+
+.mentor-checkbox {
+   display: inline-block;
+   margin-right: 6px;
+}
+
+.mentor-options-label {
+   margin-bottom: 12px;
+}
