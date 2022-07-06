@@ -1,5 +1,5 @@
 # AdvDivRepo-2022
-This repo consists of my contribution to the project. The Institute to Advance Diversity. 
+This repo consists of my contribution to the MVP build for The Institute to Advance Diversity. 
 
 Front End - React.js,
 Back End - .NET (C#),
