@@ -1,4 +1,4 @@
-# AdvDivRepo-2022
+# Advance Diversity
 This repo consists of my contribution to the MVP build for The Institute to Advance Diversity. 
 
 Front End - React.js,
